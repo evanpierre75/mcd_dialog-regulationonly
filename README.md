@@ -1,4 +1,4 @@
-# 📘 **README — Données de réglementation de voirie (Datex II)**
+**README — Données de réglementation de voirie (Datex II)**
 
 ---
 
@@ -110,3 +110,14 @@ Une fois les tables remplies :
     </Period>
   </Measure>
 </RegulationOrder>
+```
+---
+**Crédit et licence**
+
+Ce travail est basé sur le projet [DiaLog](https://github.com/MTES-MCT/dialog), 
+publié sous licence **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+Certaines parties du modèle conceptuel de données (MCD) proviennent de DiaLog.  
+Ce dépôt propose une version adaptée aux besoins de représentation dans ArcGIS / Datex II.
+
+Licence de ce dépôt : [AGPL-3.0](./LICENSE)
