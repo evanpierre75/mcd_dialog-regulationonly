@@ -4,8 +4,7 @@
 
 **Objectif**  
 
-Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**.  
-Il permet de décrire :  
+Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**. Il permet de décrire :  
 - **Qui** émet la réglementation (autorité, organisation)  
 - **Quoi** est réglementé (type de mesure)  
 - **Où** cela s’applique (localisation)  
