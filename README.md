@@ -6,7 +6,7 @@ Lien vers le [modèle conceptuel de données](https://github.com/evanpierre75/mc
 
 **Objectif**  
 
-Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**. Il permet de décrire :  
+Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **[Datex II](https://trafic-routier.data.cerema.fr/la-norme-europeenne-datex-ii-a58.html)**. Il permet de décrire :  
 - **Qui** émet la réglementation (autorité, organisation)  
 - **Quoi** est réglementé (type de mesure)  
 - **Où** cela s’applique (localisation)  
