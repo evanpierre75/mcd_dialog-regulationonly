@@ -2,6 +2,8 @@
 
 Lien vers le [modèle conceptuel de données](https://github.com/evanpierre75/mcd_dialog-regulationonly/blob/5163739b4abc17962556e6514b09de1295c3eba5/MCD-Dialog-regulationonly.md) adapté d'après [DiaLog](https://github.com/MTES-MCT/dialog/blob/main/docs/adr/002_mcd.md)
 
+---
+
 **Objectif**  
 
 Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**. Il permet de décrire :  
