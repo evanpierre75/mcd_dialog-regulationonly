@@ -1,7 +1,5 @@
 # **README — Données de réglementation de voirie (Datex II)**
 
----
-
 **Objectif**  
 
 Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**. Il permet de décrire :  
