@@ -2,7 +2,7 @@
 
 ---
 
-**🎯 Objectif**  
+**Objectif**  
 
 Ce schéma de données sert à représenter les **arrêtés de circulation** (réglementations de voirie) dans un format compatible avec le standard **Datex II**.  
 Il permet de décrire :  
@@ -16,7 +16,7 @@ Ces informations peuvent ensuite être exportées vers un fichier **Datex II (XM
 
 ---
 
-**🗂️ Entités principales à remplir**
+**Entités principales à remplir**
 
 **1. `Organization` / `Establishment` / `SigningAuthority`**  
 - Identifie l’autorité publique ou l’établissement qui publie l’arrêté.  
@@ -66,7 +66,7 @@ Ces informations peuvent ensuite être exportées vers un fichier **Datex II (XM
 
 ---
 
-**📊 Exemple simplifié**
+**Exemple simplifié**
 
 Cas : interdiction de circulation pour poids lourds > 3,5t dans une rue, de 22h à 6h.
 
@@ -80,7 +80,7 @@ Cas : interdiction de circulation pour poids lourds > 3,5t dans une rue, de 22h 
 
 ---
 
-**🛠️ Bonnes pratiques**
+**Bonnes pratiques**
 
 - Utiliser des `uuid` uniques pour chaque objet (`RegulationOrder`, `Measure`, etc.).  
 - Remplir les dates et heures au format **ISO** (`YYYY-MM-DD`, `HH:MM:SS`).  
@@ -94,7 +94,7 @@ Cas : interdiction de circulation pour poids lourds > 3,5t dans une rue, de 22h 
 
 ---
 
-**📤 Export en Datex II**
+**Export en Datex II**
 
 Une fois les tables remplies :  
 
