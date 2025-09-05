@@ -111,10 +111,10 @@ Une fois les tables remplies :
 ---
 **Crédit et licence**
 
-Ce travail est basé sur le projet [DiaLog](https://github.com/MTES-MCT/dialog), 
+Ce travail est une simplification du projet [DiaLog](https://github.com/MTES-MCT/dialog), 
 publié sous licence **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-Certaines parties du modèle conceptuel de données (MCD) proviennent de DiaLog.  
+L'intégralité de ce modèle conceptuel de données (MCD) provient de DiaLog.  
 Ce dépôt propose une version adaptée aux besoins de représentation dans ArcGIS / Datex II.
 
 Licence de ce dépôt : [AGPL-3.0](./LICENSE)
